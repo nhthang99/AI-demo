@@ -1,0 +1,6 @@
+{
+    "IP": "172.16.30.207",
+    "PORT": 5000,
+    "Video_Source": "samples/Parking+in+Japan!.mp4",
+    "API": "http://172.16.8.39:8000/api/detector/lp"
+}
